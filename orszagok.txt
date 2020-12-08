@@ -8,3 +8,8 @@ Nauru BT
 Tuvalu BT
 Antigua és Barbuda BT
 Saint Lucia BT
+Andorra DZ
+Málta DZ
+Maldív-szigetek DZ
+Luxemburg DZ
+Bahrein DZ
