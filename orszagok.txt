@@ -8,6 +8,11 @@ Nauru BT
 Tuvalu BT
 Antigua és Barbuda BT
 Saint Lucia BT
+Franciország HH
+Kína HH
+Kanada HH
+Magyarország HH
+Madeira HH
 Andorra DZ
 Málta DZ
 Maldív-szigetek DZ
