@@ -13,3 +13,8 @@ Kína HH
 Kanada HH
 Magyarország HH
 Madeira HH
+Andorra DZ
+Málta DZ
+Maldív-szigetek DZ
+Luxemburg DZ
+Bahrein DZ
