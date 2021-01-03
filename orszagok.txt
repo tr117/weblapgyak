@@ -18,3 +18,8 @@ Málta DZ
 Maldív-szigetek DZ
 Luxemburg DZ
 Bahrein DZ
+Puerto Rico BFI
+Mexikó BFI
+Bangladesh BFI
+Irán BFI
+Pakisztán BFI
